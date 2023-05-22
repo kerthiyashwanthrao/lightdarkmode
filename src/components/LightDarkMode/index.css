@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  height: 100vh;
+}
+.Darkcard {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+}
+.darkbutton {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+  width: 100px;
+  padding: 5px;
+}
+.whitecard {
+  background-color: #ffffff;
+  color: #000000;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000000;
+  border-radius: 10px;
+}
+.darkbutton {
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 10px;
+  width: 100px;
+  padding: 5px;
+}
+.Whitebutton {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+  width: 100px;
+  padding: 5px;
+}
+.heading {
+  font-size: 25px;
+}
+.btncontainer {
+  display: flex;
+  justify-content: center;
+}
